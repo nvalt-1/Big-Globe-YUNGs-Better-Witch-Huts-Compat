@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "betterwitchhuts:witch_hut",
+  "biomes": "#betterwitchhuts:has_structure/better_witch_hut"
+}
